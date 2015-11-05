@@ -1,12 +1,12 @@
 {{autolang|base=yes}}
 
-= Fedora Localization Guide on Zanata(Draft) =
-== Introduction ==
-This page describes some basic steps on how to join Fedora Project L10n team, how to begin translation on new L10n platform - Zanata, as well as some simple suggestions on translating, proofreading and testing.
+= Guia do Fedora Localization no Zanata(rascunho) =
+== Introdução ==
+Esta página descreve algumas etapas básicas sobre como se juntar à equipe do Projeto Fedora L10n, como começar a tradução na nova plataforma L10n - Zanata, bem como algumas sugestões simples sobre a tradução, revisão e teste.
 
-= How to become a Fedora translator =
-L10n is not just about translation, but if you want to contribute on L10n, then start from a translator is a good choice.
-You need to follow the steps below to complete:
+= Como se tornar um tradutor Fedora =
+L10n não é apenas sobre a tradução, mas se você quiser contribuir em L10n, então iniciar como tradutor é uma boa escolha.
+Você precisa seguir os passos abaixo para completar:
 #[https://fedoraproject.org/wiki/L10N/Translate_on_Zanata#Create_a_Fedora_account Create a Fedora account]
 #[https://fedoraproject.org/wiki/L10N/Translate_on_Zanata#Subscribe_to_the_Mailing_Lists Subscribe to the mailing lists]
 #[https://fedoraproject.org/wiki/L10N/Translate_on_Zanata#Introduce_Yourself Introduce Yourself](It's a good idea to do it on all mailing list you have subscribed)
@@ -15,13 +15,13 @@ You need to follow the steps below to complete:
 
 Your self-introduction is important. It raises your chances to be approved for write access. You may also want to [https://fedoraproject.org/wiki/L10N/Guide#How-to_create_a_Bugzilla_account create a Bugzilla account] to work on bugs reported by users.
 
-== Create a Fedora account ==
+== Crie uma conta Fedora ==
 # Open https://admin.fedoraproject.org/accounts and click the New Account link. 
 # Fill in each required parts and click Sign up. A password will be emailed to you, and you can change it later.
 # Now visit https://admin.fedoraproject.org/accounts again and log in with your password.
 # The account system will remind you that CLA is not completed.
 
-=== Signing the CLA ===
+=== Assinando o CLA ===
 
 To begin translation, you must complete the Contributors License Agreement, or CLA.
 
@@ -34,26 +34,26 @@ To begin translation, you must complete the Contributors License Agreement, or C
 {{admon/note|Note | Telephone Number and Postal Address information is NOT accessible by others except admin groups. Please refer to Fedora Privacy Policy at https://fedoraproject.org/wiki/Legal:PrivacyPolicy. Other fields will be displayed by any other member by visiting the user's view page.}}
 {{admon/tip|More about FAS| You can visit https://fedoraproject.org/wiki/Account_System for more details about Fedora account system.}}
 
-== Subscribe to the Mailing Lists ==
-=== Main L10n mailing list ===
+== Inscreva-se na lista de discussão ==
+=== Principal dista de discussão L10n ===
 {{admon/note| Note | Use English on this mailing list}}
 # Visit [https://lists.fedoraproject.org/mailman/listinfo/trans trans] mailing list subscribe page and subscribe it.
 # You won't be able to send message to the list until you are approved by the admin of the mailing list. You will receive a confirmation email which contains a link to confirm your subscription. Click the link to confirm your subscription.
 
-=== Your team mailing list ===
+=== A lista de discussão de seu time ===
 {{admon/note| Note | Use your mother language is better on this mailing list}}
 # Visit https://fedoraproject.org/wiki/L10N/Teams and find your language team(s)
 # Subscribe the mailing list(s) for your language(s)
 
 {{admon/important|Mailing list guidelines| You are recommended to read this [https://fedoraproject.org/wiki/Mailing_list_guidelines guidelines] before you post messages to a mailing list.}}
 
-== Introduce Yourself ==
+== Apresente-se ==
 # Create a personal page at https://fedoraproject.org/wiki/User:Username.
 # Make a short self-introduction to the mailing lists you have subscribed. If you don't know what to introduce, here is a template: https://fedoraproject.org/wiki/L10N_Self_introduction.
 
 The above two steps are very useful for Fedora contributors get to know and contact each other. The second step also helps your language coordinator to identify you and approve you as a translator of the team.
 
-== Login to Zanata with your FAS account ==
+== Acesse o Zanata com a sua conta FAS ==
 * Open https://fedora.zanata.org/ and click the blue 'Log In' button on the top-right of the page. 
 [[File:zanata_login.png |600px]]
 * Then it will guides you to FedOAuth page in which you can Login with your FAS account and password you have registered in last section.
