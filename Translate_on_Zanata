@@ -13,32 +13,33 @@ Você precisa seguir os passos abaixo para completar:
 #[https://fedoraproject.org/wiki/L10N/Translate_on_Zanata#Login_to_Zanata_with_your_FAS_account Login to Zanata with your FAS account]
 #[https://fedoraproject.org/wiki/L10N/Translate_on_Zanata#Find_your_language_team_and_join_in Find your language team and join in]
 
-Your self-introduction is important. It raises your chances to be approved for write access. You may also want to [https://fedoraproject.org/wiki/L10N/Guide#How-to_create_a_Bugzilla_account create a Bugzilla account] to work on bugs reported by users.
+Sua auto-apresentação é importante. Ela aumenta suas chances para ser aprovado para acesso de escrita. Você também pode querer [https://fedoraproject.org/wiki/L10N/Guide#How-to_create_a_Bugzilla_account create a Bugzilla account] para trabalhar em bugs reportados por usuários.
 
 == Crie uma conta Fedora ==
-# Open https://admin.fedoraproject.org/accounts and click the New Account link. 
-# Fill in each required parts and click Sign up. A password will be emailed to you, and you can change it later.
-# Now visit https://admin.fedoraproject.org/accounts again and log in with your password.
-# The account system will remind you that CLA is not completed.
+# Abra https://admin.fedoraproject.org/accounts e clique no link 'New Account'. 
+# Preencha cada parte obrigatória e clique 'Sign up'. Uma senha será enviada a você por e-mail, e você pode alterá-la mais tarde.
+# Agora visite https://admin.fedoraproject.org/accounts novamente e faça o login com sua senha.
+# O sistema de contas irá lembrá-lo que o CLA não está concluído.
 
 === Assinando o CLA ===
 
-To begin translation, you must complete the Contributors License Agreement, or CLA.
+Para começar a tradução, você deve completar o Contrato de Licença de Contribuintes, ou CLA.
 
-# Visit https://admin.fedoraproject.org/accounts and login your account using your user name and password obtained from the previous process.
-# In the Welcome page, click complete the CLA or go to https://admin.fedoraproject.org/accounts/user/edit.
-# If the information of telephone number and postal address have not been provided yet, the Edit Account (user_name) page will be appeared and you need to fill in each of them. Otherwise Fedora Contributor License Agreement page will be displayed. Read through the agreement carefully and click I agree if you are happy to do so.
-# Now click Save! located at the bottom of this page to save your information.
-# The user-view page is appeared and shows the CLA: field as CLA Done.
+# Visite https://admin.fedoraproject.org/accounts e faça login em sua conta usando seu nome de usuário e senha obtidos a partir do processo anterior.
+# Na página de boas vindas, clique em 'complete the CLA' ou ir para https://admin.fedoraproject.org/accounts/user/edit.
+# Se as informações de número de telefone e endereço postal ainda não foram fornecidas, a página Editar conta (user_name) será exibida e você precisa preencher em cada um deles. Caso contrário a página do Contrato de Licença do Contributor Fedora será exibida. Leia o contrato atentamente e clique em Concordo se você está feliz em fazê-lo.
 
-{{admon/note|Note | Telephone Number and Postal Address information is NOT accessible by others except admin groups. Please refer to Fedora Privacy Policy at https://fedoraproject.org/wiki/Legal:PrivacyPolicy. Other fields will be displayed by any other member by visiting the user's view page.}}
-{{admon/tip|More about FAS| You can visit https://fedoraproject.org/wiki/Account_System for more details about Fedora account system.}}
+# Agora clique em Salvar! localizado na parte inferior da página para salvar suas informações.
+# A página 'user-view' apareceu e mostra o CLA: campo como 'CLA Done'.
+
+{{admon/note|Note | Informações de Número de telefone e Endereço Postal não são acessíveis por outros, exceto grupos de administradores. Por favor, consulte a Política de Privacidade do Fedora em https://fedoraproject.org/wiki/Legal:PrivacyPolicy. Outros campos serão mostrados para qualquer outro membro que visitar a página de visualização do usuário.}}
+{{admon/tip|More about FAS| Você pode visitar https://fedoraproject.org/wiki/Account_System para mais detalhes sobre o sistema de contas do Fedora.}}
 
 == Inscreva-se na lista de discussão ==
 === Principal dista de discussão L10n ===
-{{admon/note| Note | Use English on this mailing list}}
-# Visit [https://lists.fedoraproject.org/mailman/listinfo/trans trans] mailing list subscribe page and subscribe it.
-# You won't be able to send message to the list until you are approved by the admin of the mailing list. You will receive a confirmation email which contains a link to confirm your subscription. Click the link to confirm your subscription.
+{{admon/note| Note | Use Inglês na lista de discussão}}
+# Visite a página de inscrição da lista de discussão [https://lists.fedoraproject.org/mailman/listinfo/trans trans] e se inscreva.
+# Você não será capaz de enviar mensagem à lista até que você seja aprovado pelo administrador da lista de discussão. Você receberá um email de confirmação que contém um link para confirmar sua inscrição. Clique no link para confirmar sua inscrição.
 
 === A lista de discussão de seu time ===
 {{admon/note| Note | Use your mother language is better on this mailing list}}
